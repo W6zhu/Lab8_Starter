@@ -1,6 +1,6 @@
 {
     "name": "Lab8_Starter",
-    "short_name": "Wilson Zhu",
+    "short_name": "WilsonZhu",
     "description": "Lab 8 with Service Workers",
     "start_url": "/",
     "display": "standalone",
